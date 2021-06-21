@@ -3,7 +3,9 @@
 
 ## How to Install
 - clone this repo
-- setting your database in .env file
+- run `composer install`
+- duplicate file `.env.example` to `.env` file
+- setting your database in `.env` file
 - run `php artisan migrate:refresh --seed`
 - run `php artisan serve`
 - open browser with url [http://127.0.0.1:8000](http://127.0.0.1:8000/)
