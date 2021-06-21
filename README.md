@@ -1,5 +1,7 @@
+# Overview
 <p align="center"><a href="public/assets/img/contact_app.png" target="_blank"><img src="public/assets/img/contact_app.png" width="400"></a></p>
-## Running
+
+## How to Install
 - clone this repo
 - setting your database in .env file
 - run `php artisan migrate:refresh --seed`
@@ -8,4 +10,4 @@
 
 ###### Follow Me
 - [x] [https://www.ihsanbagus.com/](https://www.ihsanbagus.com/)
-- [x] [Facebook/](https://www.fb.me/orangilir)
+- [x] [Facebook](https://www.fb.me/orangilir)
